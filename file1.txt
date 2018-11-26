@@ -1,1 +1,2 @@
 Content of file1
+More information added to file1
