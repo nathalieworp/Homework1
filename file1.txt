@@ -1,2 +1,3 @@
 Content of file1
 More information added to file1
+Changes of Paul to file1.txt
